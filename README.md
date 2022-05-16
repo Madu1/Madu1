@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madu1 
 - 👀 I’m interested in Web Development, specifically by using python and django.
 - 🌱 I’m currently learning the core features of web development  
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me ...
 
 <!---
